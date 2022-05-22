@@ -1,0 +1,1 @@
+CLIENT_ID: str = "0gd1yKY0b8aN-B4I7Ik47A=="
